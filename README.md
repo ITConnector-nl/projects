@@ -18,7 +18,7 @@ Lesson #1: In order to prevent the creation of resources with HEX codes (used fo
         // Create an Azure Resource Group
         var azureGroup = new Pulumi.Azure.Core.ResourceGroup("azureGroup", new ResourceGroupArgs
         {
-            **Name = "azureIAC"**
+            Name = "azureIAC"
         });
 
         // Create an Azure Storage Account
@@ -27,7 +27,7 @@ Lesson #1: In order to prevent the creation of resources with HEX codes (used fo
             ResourceGroupName = azureGroup.Name,
             AccountReplicationType = "LRS",
             AccountTier = "Standard",
-            **Name = "storageinthezone",**
+            Name = "storageinthezone",
             Location = "westeurope"
         });
 
