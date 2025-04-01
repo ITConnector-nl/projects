@@ -1,37 +1,12 @@
-# projects
-Active projects / evaluations of technology
+# IT-Connector.com - Azure Integration experts landing page!
 
-- Medical Voice assistent - active
-We are creating a medical voice assistent which is used to support medical experts who are following standard workflows and need to check a patient and register the findings/results in an automated manner. A platform has been developed which can be used to register, monitor, and compare results of checkups. This is possible to using voice controlled speakers.
-#ChatGPT #React #Logic Apps #Durable entities, #Azure
+<img src="https://github.com/user-attachments/assets/1e17a532-a004-4aed-a395-58b8c5d0e960" alt="https://www.it-connector.com" width="100"/>
 
-- Flutter apps - active
-We are creating flutter apps for different target audiences
-#AI #Flutter #AzureMediaServices #SpatialAudio
+We from [IT-Connector.com](https://www.it-connector.com) provides various services throughout the whole project and can be involved before-during-after project initiation and help with the solution architecture as well as the technological gatekeepers of the enterprise architecture. We have a broad experience in complex integration projects and can act as the liaison between business and IT. 
 
-Completed
-- Custom integration adapters for software vendors
-We created custom cloud native adapters for several systems (e.g. Van Meijel MetaCom), which allows for easy integration
-#Azure #APIM #LogicApps
+This page is maintained by Sander Nefs and aims to have actionable content with tools/frameworks that are relevant for engagements at customers of [IT-Connector.com](https://it-connector.com/). These can be used for:
+- Cloud Assessment
+- Cloud Architecture design
+- Cloud Adoption (contains all steps)
 
-- Multi cloud
-What can we do to to accomplish a multi-cloud strategy
-#Pulumi #Terraform
-
-- IPaaS production selection
-Part of a production selection for a large client reviewing integration platform capabilities, where the following platforms are evaluated:
- 1. Dell Boomi (Cloud based platform, missing; CI/CD integration, monitoring capabilities out of the box)
- 2. Microsoft platform (Logic apps, API Management, On-premise integration)
- 3. Mule Platform (APIM; RAML based, Integration stack)
-#MICROSOFT #Mule #RAML #BOOMI
-
-- Power Virtual Agent
-Created a Power Virtual Agent to help explain the usage and application of UBL within a company
-#PowerPlatform
-
-- Search Frameworks - completed
-Some examples and tests performed with different Search frameworks in order to create a solution by crawling data and presenting this in a nice interface. Analyzed: SolR, ElasticSearch, MongoDb Atlas, Azure Search. As the project had no limitation where the data was stored, Microsoft Cognitive Search is the chosen solution. The feature to create a website with search page as a demo from an indexer was very helpfull.
-#AzureSearch #ElasticSearch #SolR #MongoDbAtlas
-
-- UI Frameworks
-In order to create rapid prototypes, experiments have been done to create a simple user-authorized front-end. The following frameworks have been reviewed: #Power Apps Portal, #Power Apps Canvas, #Blazor, #DotNetify.
+<img src="https://github.com/user-attachments/assets/9b305cf7-8689-456a-9835-b264597cfe6e" alt="https://www.it-connector.com" width="750"/>
